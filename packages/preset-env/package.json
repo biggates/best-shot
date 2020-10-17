@@ -39,11 +39,11 @@
     "is-git-repository": "^2.0.0",
     "js-yaml": "^3.14.0",
     "lodash": "^4.17.20",
-    "sort-keys": "^4.0.0"
+    "sort-keys": "^4.1.0"
   },
   "peerDependencies": {
     "@best-shot/core": "^0.2.2",
-    "webpack": "^4.44.1"
+    "webpack": "^4.44.2"
   },
   "engines": {
     "node": "^10.18 || ^12.14 || ^14"
